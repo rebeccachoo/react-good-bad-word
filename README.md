@@ -5,7 +5,9 @@ This simple page will get your word to distinguish if it is a good word or a bad
 
 | Feature | Description |
 | -----: | :----------- |
-|  Image | <img src="https://github.com/rebeccachoo/react-toggle-images/blob/main/toggle.png?raw=true"  width="400">|
+|  Image | <img src="https://github.com/rebeccachoo/react-good-bad-word/blob/main/good.png?raw=true"  width="400">|
+|  Image | <img src="https://github.com/rebeccachoo/react-good-bad-word/blob/main/good2.png?raw=true"  width="400">|
+|  Image | <img src="https://github.com/rebeccachoo/react-good-bad-word/blob/main/good3.png?raw=true"  width="400">|
 
 
 
