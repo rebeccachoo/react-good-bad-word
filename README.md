@@ -1,0 +1,1 @@
+# react-good-bad-word
