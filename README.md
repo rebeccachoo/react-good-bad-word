@@ -1,6 +1,6 @@
 # React Simple Page
 
-This simple page will get your word to distinguish between good or bad. The minion will tell you.
+This simple page will get your word to distinguish between good or bad. The minion will tell you right away.
 
 
 | Feature | Description |
