@@ -1,4 +1,4 @@
-# Good or Bad word?
+# React App - Good or Bad word?
 
 This simple page will get your word to distinguish between good or bad. The minion will tell you right away.
 
